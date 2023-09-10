@@ -10,13 +10,13 @@
 
 ## 项目截图
 
-![QQ截图20230910111112](D:\mavenProject\用户中心\myapp\doc\pic\QQ截图20230910111112.png)
+![QQ截图20230910111112](../myapp/doc/pic/QQ截图20230910111112.png)
 
-![QQ截图20230910111407](D:\mavenProject\用户中心\myapp\doc\pic\QQ截图20230910111407.png)
+![QQ截图20230910111407](../myapp/doc/pic/QQ截图20230910111407.png)
 
-![QQ截图20230910111502](D:\mavenProject\用户中心\myapp\doc\pic\QQ截图20230910111502.png)
+![QQ截图20230910111502](../myapp/doc/pic/QQ截图20230910111502.png)
 
-![QQ截图20230910111513](D:\mavenProject\用户中心\myapp\doc\pic\QQ截图20230910111513.png)
+![QQ截图20230910111513](../myapp/doc/pic/QQ截图20230910111513.png)
 
 ## 需求分析
 
